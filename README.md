@@ -1,14 +1,28 @@
 ## README
 
-Esse projeto é um jogo desenvolvido utilizando a linguagem python. Seu desenvolvimento engloba entre outros conceitos:
-- Programação Orientada a Objetos
-- Particionamento de arquivos
-- Testes
-- Decoradores
+This project is a game developed using the python language. Its development encompasses, among other concepts:
+
+- Object Oriented Programming
+- File partitioning
+- Tests
+- Decorators
 
 
-### Objetivo
-Desenvolver um jogo que permita que o usuário digite o resultado referente a uma operação matemática de subtração, adição ou multiplicação entre dois numeros. 
-A cada acerto o usuário ganha um ponto. Os erros não são computados(rsrsrs).
+### Objective :dart:
+Develop a game that allows the user to type the result of a mathematical operation of subtraction, addition or multiplication between two numbers.
+For each hit, the user earns a point. Errors are not computed :-)
+
+
+### Files :page_with_curl:
+
+[``models/calculate.py``](models\calculate.py) 
+
+Class calculate. Includes all functions and methods used in the game
+
+[``game.py``](game.py)
+Game logic development
+
+[``test.py``](test.py)
+Used for the development of tests during the creation of the game
 
 

@@ -1,6 +1,5 @@
-__pycache__/
-*.pyc
-.mypy_cache/
+*mypy_cache/
+*pytest_cache/
+**/__pycache__/
 .cache
-.pytest_cache/
-__pycache__
+models/__pycache__

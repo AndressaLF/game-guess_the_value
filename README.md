@@ -1,6 +1,6 @@
 ## README
 
-This project is a game developed using the python language. Its development encompasses, among other concepts:
+This project is a game developed using the python language. ts development used the python concepts:
 
 - Object Oriented Programming
 - File partitioning
